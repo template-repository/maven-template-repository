@@ -4,6 +4,8 @@ Repository creates for fast running development process with configuration, whic
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/romankh3/respository-template/pulls)
 
 Added:
+*   Maven build tool
+*   GitHubAction for Maven
 *   Apache 2.0 license
 *   Code of conduct file
 *   Contributing file
@@ -13,7 +15,7 @@ Added:
 *   Issue templates
 
 ### Propositions
-If you have any ideas of what can be added to `repository-template` - welcome!
+If you have any ideas of what can be added to `template-repository` - welcome!
 
 ## Usage
 to start using this template need to update next places:
