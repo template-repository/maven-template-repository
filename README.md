@@ -5,7 +5,7 @@ Repository creates for fast running development process with configuration, whic
 
 Added:
 *   Maven build tool
-*   GitHubAction for Maven
+*   GitHub Action for Maven
 *   Apache 2.0 license
 *   Code of conduct file
 *   Contributing file
@@ -20,7 +20,7 @@ If you have any ideas of what can be added to `template-repository` - welcome!
 ## Usage
 to start using this template need to update next places:
 
-0. fork template. Unfortunately, only repository owners can use as a template.
+0. put `Use this template` button on the repository.
 1. update name and year fro [LICENSE](LICENSE) part.
 2. update About and Usage parts in README. Remove other projects if wants it.
 3. update Authors chapter.
